@@ -1,0 +1,4 @@
+#Thu Oct 25 17:39:40 ICT 2018
+base.0=D\:\\android-fundamentals-master\\HelloCompat\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
